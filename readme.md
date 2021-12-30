@@ -18,6 +18,3 @@ npm run dev
 # Run in production
 npm start
 ```
-Test123456
-
-das
