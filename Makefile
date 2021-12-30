@@ -1,2 +1,2 @@
 run-local:
-	docker-compose upö
+	docker-compose up
